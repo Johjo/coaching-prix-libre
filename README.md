@@ -19,8 +19,8 @@ Tu souhaites progresser dans l'un de ces domaines :
 - L'organisation individuelle ou en équipe
 - La recherche d'emploi ou de mission
 - L'art du développement
-- Le travail en équipe 
 - Les pratiques CRAFT
+- Le travail en équipe 
 - La formation
 - Ou autre
 
