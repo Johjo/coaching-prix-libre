@@ -28,4 +28,4 @@ Tu trouveras ici des exemples des sujets que j'ai adressés au cours des derniè
 
 ## Combien ça coûte ? 
 
-Je pratique le prix libre. 
+Je pratique le prix libre. Cela signifie que tu choisis en conscience le montant que tu vas me payer. Ce montant doit être corrélé à la valeur que je t'ai apporté et à tes moyens. Mais ce n'est pas gratuit.  
