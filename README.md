@@ -4,6 +4,8 @@ Tu travailles dans le développement logiciel et tu as conscience que des obstac
 
 Je te propose de t'accompagner et de faire équipe avec toi. Ensemble, nous allons affronter ces difficultés.
 
+Et je te promets que tu as les moyens de t'offrir ce coaching.
+
 Je m'adresse à tout le monde : 
 - tu es sur le point d'écrire ta première ligne de code
 - étudiante ou étudiant dans le développement
@@ -13,11 +15,17 @@ Je m'adresse à tout le monde :
 - ou même CEO
 
 Tu souhaites progresser dans l'un de ces domaines : 
-- L'art du développement
-- Les pratiques CRAFT
-- Le travail en équipe 
 - Les stratégies business, technique et métier pour ta startup
-- La formation
-- La recherche d'emploi ou de mission
 - L'organisation individuelle ou en équipe
+- La recherche d'emploi ou de mission
+- L'art du développement
+- Le travail en équipe 
+- Les pratiques CRAFT
+- La formation
+- Ou autre
 
+Tu trouveras ici des exemples des sujets que j'ai adressés au cours des dernières années.
+
+## Combien ça coûte ? 
+
+Je pratique le prix libre. 
