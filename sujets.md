@@ -26,4 +26,20 @@ Je le reconnais, je n'ai pas le vocabulaire d'un PM, je ne connais pas le nom de
 
 On jette ensemble plusieurs hypothèses. Ma spécialité, le découpage et aller droit au but pour récupérer du feedback.
 
+## Recherche de mission, d'emploi
+Je t'aide à avoir un point de vue différent sur ta recherche d'emploi. Plutôt que de ressembler à tout le monde, on étudie tes particularités et on te met en avant. Suivant ton parcours, ton réseau, tes envies, on étudie toutes les stratégies possibles pour faciliter ta recherche d'emploi
+
+## Les langages de développement
+Je n'ai pas la maîtrise d'un langage en particulier. Je ne suis pas en mesure de te guider dans le choix d'un framework ou d'un langage pour réaliser un projet à un niveau expert. 
+Par contre, si tu as des questions sur les langages .NET, python, rust, WinDev, on peut en discuter, dans les limites de mes connaissances.
+
+## Et pleins d'autres sujets
+- Refactoring (une de mes spécialités)
+- Gestion du temps et des tâches
+- Mieux te connaître
+- Tests automatiques 
+- Mob programming
+- L'autoformation
+
+Donne moi ton sujet et je te dirais avec transparence si je suis en mesure de t'aider ou pas. Pratiquant le prix libre, je n'ai aucun intérêt à aborder des sujets pour lesquels je ne peux pas apporter de valeur.
 
