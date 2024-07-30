@@ -40,8 +40,10 @@ Tu verras leur avis ici : https://airtable.com/app7P1FnvPL0pac3z/shrZThhH0r9RE4M
 
 ## Qui suis-je ? 
 
-Je suis Jonathan, développeur professionnel depuis 2006. J'ai travaillé pendant 12 ans chez un éditeur de logiciel avant de devenir freelance. J'ai accompagné une centaine de personnes au cours de mes différentes sessions de coaching, formation, cours magistraux.
+Je suis Jonathan, développeur professionnel depuis 2006. J'ai travaillé pendant 12 ans chez un éditeur de logiciel avant de devenir freelance. J'ai accompagné une centaine de personnes au cours de mes différentes sessions de coaching, formation et cours magistraux.
 
-Je suis passionné par le développement, craft, la méthodologie, les stratégies techniques, métiers, pédagogiques et marketting. 
+Je suis passionné par le développement, craft, la méthodologie, les stratégies techniques, métiers, pédagogiques et marketting.
 
-J'ai fondé avec d'autres freelances le collectif ytreza.dev. 
+Tu peux consulter [mon profil linkedin](https://www.linkedin.com/in/jonathan-laurent/) sur lequel je suis très actif. 
+
+
