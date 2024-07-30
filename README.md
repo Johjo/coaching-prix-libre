@@ -16,3 +16,8 @@ Tu souhaites progresser dans l'un de ces domaines :
 - L'art du développement
 - Les pratiques CRAFT
 - Le travail en équipe 
+- Les stratégies business, technique et métier pour ta startup
+- La formation
+- La recherche d'emploi ou de mission
+- L'organisation individuelle ou en équipe
+
