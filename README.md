@@ -1,3 +1,5 @@
+[Prendre rendez-vous](https://airtable.com/app7P1FnvPL0pac3z/pagQbDYgY4B33MHUz/form)
+
 # Coaching à prix libre
 
 Tu travailles dans le développement logiciel et tu as conscience que des obstacles se dressent devant toi. Les choses ne sont pas aussi simples que tu le souhaiterais et tu as du mal à atteindre tes objectifs.
@@ -38,7 +40,7 @@ Je te donne plus d'explication sur le prix libre ici.
 
 Puisque j'absorbe tout le risque financier, mon obligation est de t'apporter de la valeur et de la satisfaction. Le pire qu'il puisse se produire, c'est que tu perdes une heure de ta vie. Ne pouvant prédire le futur, je te propose de consulter le passé et de voir l'avis des personnes qui ont travaillées avec moi.
 
-Tu verras leur avis ici : https://airtable.com/app7P1FnvPL0pac3z/shrZThhH0r9RE4M6T
+[Consulter les avis.](https://airtable.com/app7P1FnvPL0pac3z/shrZThhH0r9RE4M6T)
 
 ## Qui suis-je ? 
 
@@ -48,4 +50,7 @@ Je suis passionné par le développement, craft, la méthodologie, les stratégi
 
 Tu peux consulter [mon profil linkedin](https://www.linkedin.com/in/jonathan-laurent/) sur lequel je suis très actif. 
 
+## Prendre rendez-vous pour une session de coaching
+
+[Prendre rendez-vous](https://airtable.com/app7P1FnvPL0pac3z/pagQbDYgY4B33MHUz/form)
 
