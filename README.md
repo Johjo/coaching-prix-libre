@@ -26,6 +26,8 @@ Tu souhaites progresser dans l'un de ces domaines :
 
 Tu trouveras ici des exemples des sujets que j'ai adressés au cours des dernières années.
 
+[Consulter les sujets déjà abordés.](sujets.md)
+
 ## Combien ça coûte ? 
 
 Je pratique le prix libre. Cela signifie que tu choisis en conscience le montant que tu vas me payer. Ce montant doit être corrélé à la valeur que je t'ai apporté et à tes moyens. Mais ce n'est pas gratuit. Cependant, cela me permet d'absorber pour toi tout le risque financier de l'accompagnement. Tu n'as pas obtenu satisfaction ? Alors, c'est gratuit !
