@@ -36,7 +36,7 @@ Je te donne plus d'explication sur le prix libre ici.
 
 ## Est-ce que je risque de perdre mon temps ?
 
-Puisque j'absorbe tout le risque financier, mon obligation est de t'apporter de la valeur et de la satisfaction. Le pire qu'il puisse se produire, c'est que tu perdes effectivement un peu de temps. Ne pouvant prédire le futur, je te propose de consulter le passé et de voir l'avis des personnes qui ont travaillées avec moi.
+Puisque j'absorbe tout le risque financier, mon obligation est de t'apporter de la valeur et de la satisfaction. Le pire qu'il puisse se produire, c'est que tu perdes une heure de ta vie. Ne pouvant prédire le futur, je te propose de consulter le passé et de voir l'avis des personnes qui ont travaillées avec moi.
 
 Tu verras leur avis ici : https://airtable.com/app7P1FnvPL0pac3z/shrZThhH0r9RE4M6T
 
