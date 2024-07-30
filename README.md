@@ -12,4 +12,7 @@ Je m'adresse à tout le monde :
 - en freelancing
 - ou même CEO
 
-
+Tu souhaites progresser dans l'un de ces domaines : 
+- L'art du développement
+- Les pratiques CRAFT
+- Le travail en équipe 
